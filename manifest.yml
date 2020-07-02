@@ -1,6 +1,6 @@
 ---
 applications:
-- name: sapcpcfhw
+- name: demo_piper_pipeline01
   path: .
   buildpack: nodejs_buildpack
   memory: 128M
