@@ -1,6 +1,6 @@
 {
-  "name": "SAP-CP-CF-HelloWorld",
-  "description": "Sample SAP-CP-CF Hello World Restful Service",
+  "name": "express-nodejs-app",
+  "description": "Sample Node JS Restful Service",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
