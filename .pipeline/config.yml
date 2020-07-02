@@ -6,6 +6,6 @@ steps:
     deployTool: 'mtaDeployPlugin'
     deployType: 'standard'
     cloudFoundry:
-      org: 'Org_cpl261'
+      org: 'SAPDX_extensions'
       space: 'dev'
       credentialsId: 'CF_CREDENTIALSID'
