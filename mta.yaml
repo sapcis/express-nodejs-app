@@ -1,0 +1,9 @@
+_schema-version: 2.1.0
+ID: com.sap.piper.node.express.app
+version: 1.0.0
+description: Sample Node JS Restful Service
+provider: SAP Sample generator
+modules:
+  - name: piper.node.express.app
+    type: nodejs
+    path: .
